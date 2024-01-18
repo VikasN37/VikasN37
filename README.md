@@ -1,3 +1,4 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikas Niranjan
 # 💫 About Me:
 🔭 I'm a Full Stack Developer.<br>🤝 I’m looking forward for collaborations.<br>🌱 I’m currently learning new technologies/frameworks.<br>⚡ Skilled at MERN stack.
 
