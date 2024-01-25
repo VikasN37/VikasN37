@@ -1,4 +1,4 @@
-<h3>Hi  My name is Vikas Niranjan</h3>
+<h2>Hi..My name is Vikas Niranjan</h2>
 # 💫 About Me:
 🔭 I'm a Full Stack Developer.<br>🤝 I’m looking forward for collaborations.<br>🌱 I’m currently learning new technologies/frameworks.<br>⚡ Skilled at MERN stack.
 
