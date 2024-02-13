@@ -1,6 +1,4 @@
-<h1>Hi..My name is Vikas Niranjan</h1>
-💫 About Me:
-🔭 I'm a Full Stack Developer.<br>🤝 I’m looking forward for collaborations.<br>🌱 I’m currently learning new technologies/frameworks.<br>⚡ Skilled at MERN stack.
+
 
 
 ## 🌐 Socials:
